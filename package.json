@@ -1,0 +1,27 @@
+{
+  "name": "sorting-visualisation",
+  "version": "1.0.0",
+  "description": "npm packages for visualising sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhankuwarSisodiya/Sorting-Visualiser.git"
+  },
+  "keywords": [
+    "visualiser",
+    "sorting"
+  ],
+  "author": "Dhankuwar Sisodiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhankuwarSisodiya/Sorting-Visualiser/issues"
+  },
+  "homepage": "https://github.com/DhankuwarSisodiya/Sorting-Visualiser#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
